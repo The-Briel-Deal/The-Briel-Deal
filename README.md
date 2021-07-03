@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @The-Briel-Deal
+- 👀 I’m interested in automating what bores me 🥱
+- 🌱 I’m currently learning python
+- 📫 Reach me at gabe@fordltc.net
