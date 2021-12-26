@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @The-Briel-Deal
-- 👀 I’m interested in automating what bores me 🥱
-- 🌱 I’m currently learning python
+- 👀 I’m a Network Engineer interested in blockchain technology
+- 🌱 I’m currently learning Solidity
 - 📫 Reach me at gabe@fordltc.net
