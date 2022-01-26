@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @The-Briel-Deal
-- 👀 I’m a Network Engineer interested in blockchain technology
-- 🌱 I’m currently learning Solidity
+- 👋 My name is Gabriel,
+- 👀 I'm currently interested in Flutter, React, and Smart Contracts!
 - 📫 Reach me at gabe@fordltc.net
