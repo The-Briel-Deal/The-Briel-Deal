@@ -1,3 +1,3 @@
 - 👋 My name is Gabriel,
-- 👀 I'm currently interested in Flutter, React, and Smart Contracts!
+- 👀 I'm a full stack developer,
 - 📫 Reach me at gabe@fordltc.net
