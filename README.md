@@ -14,3 +14,16 @@
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Graphql](https://img.shields.io/badge/Graphql-000000?style=for-the-badge&logo=Graphql&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-000000?style=for-the-badge&logo=tRPC&logoColor=white)
+
+### Databases and ORMs
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=Redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=Python&logoColor=white)
+
+### Other
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=Cisco&logoColor=white)
+
